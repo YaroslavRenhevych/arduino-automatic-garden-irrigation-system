@@ -14,6 +14,6 @@ Automatic garden irrigation system based on Arduino
 - LED
 - power source 12V
 - transistor 2N7000 TO-92
-- Water Pump 12V
+- Water Pump R365 (DC 6-12V, 0.45A, 1.45 liter/minute)
 
 ## Steps:
